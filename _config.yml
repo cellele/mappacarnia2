@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # title of site appears in banner
 title: canti popolari in Carnia
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: Archivio digitale di canti popolari della Carnia, registrazioni di Claudio Noliani
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: Questo sito nasce come progetto di tesi in etnomusicologia e presenta un archivio digitale di canti popolari della Carnia basato sulle registrazioni effettuate da Claudio Noliani tra gli anni Sessanta e Settanta. Il materiale documenta la tradizione vocale di diverse località carniche.
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho; history; inland northwest
+keywords: Canti popolari; Carnia
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Alessandra Cella
 
 ##########
 # COLLECTION SETTINGS
